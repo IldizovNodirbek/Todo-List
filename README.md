@@ -66,15 +66,5 @@ npx json-server --watch db.json --port 3000
 npm run dev
 ```
 
-### Project Structure 
 
-├── src
-│   ├── assets              # Images and other assets
-│   ├── components          # Reusable components like Navbar, Carousel, etc.
-│   ├── pages               # Main pages like Home, CreateUser, ShowUser
-│   ├── redux               # Redux Toolkit slices and store
-│   ├── App.js              # Main app component
-│   └── index.js            # Main entry file
-├── db.json                 # Mock data for JSON Server
-└──README.md               # Project documentation
 
