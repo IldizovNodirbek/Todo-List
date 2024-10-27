@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1730038744814,
+      "name": "John",
+      "email": "John@gmail.com",
+      "phone": "749292839282"
+    },
+    {
+      "id": 1730038777334,
+      "name": "JohnDoe",
+      "email": "JohnDoe@gmail.com",
+      "phone": "89289891839"
+    }
+  ]
+}
